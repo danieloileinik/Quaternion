@@ -1,0 +1,3 @@
+C:/Users/denoleinik/CLionProjects/quat/cmake-build-debug/CMakeFiles/quat.dir
+C:/Users/denoleinik/CLionProjects/quat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/denoleinik/CLionProjects/quat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

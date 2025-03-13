@@ -1,0 +1,6 @@
+# ninja log v6
+5	86	7636106106460109	CMakeFiles/quat.dir/src/quat_class.cpp.obj	a81bab05ec3311bc
+1	228	7636106106430207	CMakeFiles/quat.dir/src/main.cpp.obj	3e5ebef0392a099b
+9	821	7636106106501129	CMakeFiles/quat.dir/tests/test.cpp.obj	883b4504cf4a51d
+18	66	7636106209969451	CMakeFiles/quat.dir/src/main.cpp.obj	3e5ebef0392a099b
+66	196	7636106210447151	quat.exe	6ab454352cb2b20a
